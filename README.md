@@ -10,5 +10,6 @@ To use this repository, you can use git clone, but the only imortant file is sta
 Though do please note, [alive_progress]([url](https://github.com/rsalmei/alive-progress)) and [random]([url](https://docs.python.org/3/library/random.html)) are required.
 They can be downloaded by the following commands:
 
-pip install alive_progress
-pip install random
+-pip install alive_progress
+
+-pip install random
