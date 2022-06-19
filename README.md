@@ -13,3 +13,17 @@ They can be downloaded by the following commands:
   -pip install alive_progress
 
   -pip install random
+  
+# Credits
+If you like the progress bar and want to implement it in something useful, check out the alive-progress repo:
+  
+https://github.com/rsalmei/alive-progress
+
+Everything else was created by the Tapp Studios team:
+
+https://github.com/Tapp-Studios
+
+http://TappStudios.serveirc.com
+
+
+Enjoy!
