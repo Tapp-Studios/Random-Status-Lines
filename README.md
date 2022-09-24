@@ -1,8 +1,6 @@
 # Random Status Lines
-Everyone has experienced that panic when your project stops working right as you're trying to demonsrate it.
-
-Random Status Lines is a great way to make it appear like you're doing something cool and hacky, while in reality, you aren't. When your real code stops working, run the status.py file and distract your audience while you fix bugs in the background.
-
+This is a silly project that is surprisingly effective in making the average person thing yoou're doing something really cool in the terminal.
+It generates random terminal status lines, complete with errors, loading bars, and ping responses.
 If you want to edit the status text, simply add or remove words and phrases from the lists.
 
 # Dependancies
